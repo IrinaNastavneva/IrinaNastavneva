@@ -6,5 +6,6 @@
 ![Flutter](https://img.shields.io/badge/-<Redmine>-<COLOR>)
 ![Flutter](https://img.shields.io/badge/-<Jira>-<COLOR>)
 ![Flutter](https://img.shields.io/badge/-<Git>-<COLOR>)
+![Flutter](https://img.shields.io/badge/-<SQL>-<COLOR>)
 
 Ссылки на соц.сети
