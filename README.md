@@ -3,12 +3,12 @@
 
 ### Инструменты:
 
-![Ситечко](https://img.shields.io/badge/-<Redmine>-<yellowgreen>?style=social&logo=appveyor)
-![Mantis](https://img.shields.io/badge/-<Mantis>-<yellowgreen>?style=social&logo=appveyor)
-![Bugzila](https://img.shields.io/badge/-<Bugzila>-<yellowgreen>?style=social&logo=appveyor)
-![Ситечко](https://img.shields.io/badge/-<Ситечко>-<yellowgreen>?style=social&logo=appveyor)
-![Jira](https://img.shields.io/badge/-<Jira>-<yellowgreen>?style=social&logo=appveyor)
-![GIT](https://img.shields.io/badge/-<Git>-<yellowgreen>?style=social&logo=appveyor)
-![SQL](https://img.shields.io/badge/-<SQL>-<yellowgreen>?style=social&logo=appveyor)
+![Ситечко](https://img.shields.io/badge/-Redmine-8DB5BF)
+![Mantis](https://img.shields.io/badge/-Mantis-D8C7B5)
+![Bugzila](https://img.shields.io/badge/-Bugzila-E6E8DD)
+![Ситечко](https://img.shields.io/badge/-Ситечко-8DB5BF)
+![Jira](https://img.shields.io/badge/-Jira-D8C7B5)
+![GIT](https://img.shields.io/badge/-Git-E6E8DD)
+![SQL](https://img.shields.io/badge/-SQL-8DB5BF)
 
 ### Ссылка на соцсети:
