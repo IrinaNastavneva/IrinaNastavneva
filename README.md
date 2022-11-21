@@ -11,6 +11,8 @@
 ![GIT](https://img.shields.io/badge/-Git-E6E8DD?style=for-the-badge&logo=GIT)
 ![SQL](https://img.shields.io/badge/-SQL-8DB5BF?style=for-the-badge&logo=SQL)
 
+![Postman](https://img.shields.io/badge/-Postman-D8C7B5?style=for-the-badge&logo=Postman)
+
 ### Ссылка на соцсети:
 [![Instagram](https://img.shields.io/badge/-Instagram-D8C7B5?style=for-the-badge&logo=Instagram)](https://www.instagram.com/invites/contact/?i=1qhbkejak0ety&utm_content=now4dq)
 [![Telegram](https://img.shields.io/badge/-Telegram-8DB5BF?style=for-the-badge&logo=Telegram)](https://t.me/Irina_Nastavneva)
