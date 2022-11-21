@@ -13,3 +13,4 @@
 
 ### Ссылка на соцсети:
 [![Instagram](https://img.shields.io/badge/-Instagram-D8C7B5?style=for-the-badge&logo=Instagram)](https://www.instagram.com/invites/contact/?i=1qhbkejak0ety&utm_content=now4dq)
+[![Telegram](https://img.shields.io/badge/-Telegram-8DB5BF?style=for-the-badge&logo=Telegram)](https://t.me/Ирина)
