@@ -3,12 +3,12 @@
 
 Инструменты:
 
-![Flutter](https://img.shields.io/badge/-<Redmine>-<yellowgreen>?style=social&logo=appveyor)	
-![Flutter](https://img.shields.io/badge/-<Mantis>-<yellowgreen>?style=social&logo=appveyor)
-![Flutter](https://img.shields.io/badge/-<Bugzila>-<yellowgreen>?style=social&logo=appveyor)
-![Flutter](https://img.shields.io/badge/-<Ситечко>-<yellowgreen>?style=social&logo=appveyor)
-![Flutter](https://img.shields.io/badge/-<Jira>-<yellowgreen>?style=social&logo=appveyor)
-![Flutter](https://img.shields.io/badge/-<Git>-<yellowgreen>?style=social&logo=appveyor)
-![Flutter](https://img.shields.io/badge/-<SQL>-<yellowgreen>?style=social&logo=appveyor)
+![Redmine](https://img.shields.io/badge/-<Redmine>-<yellowgreen>?style=social&logo=appveyor)	
+![Mantis](https://img.shields.io/badge/-<Mantis>-<yellowgreen>?style=social&logo=appveyor)
+![Bugzila](https://img.shields.io/badge/-<Bugzila>-<yellowgreen>?style=social&logo=appveyor)
+![Ситечко](https://img.shields.io/badge/-<Ситечко>-<yellowgreen>?style=social&logo=appveyor)
+![Jira](https://img.shields.io/badge/-<Jira>-<yellowgreen>?style=social&logo=appveyor)
+![GIT](https://img.shields.io/badge/-<Git>-<yellowgreen>?style=social&logo=appveyor)
+![SQL](https://img.shields.io/badge/-<SQL>-<yellowgreen>?style=social&logo=appveyor)
 
 Ссылка на соцсети:
